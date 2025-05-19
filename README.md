@@ -14,11 +14,11 @@ The goal is to uncover **hidden patterns, trends, and groupings** among district
 
 ## 📂 Project Structure
 
-├── electric school bus adoption/ # Raw and cleaned datasets  
-├── Notebooks # Jupyter notebooks for EDA, and visualizations  
-├── ML Notebooks # Jupyter notebooks for EDA, clustering  
-├── README.md # Project overview and instructions  
-└── requirements.txt # List of dependencies (will be added)
+├── electric school bus adoption/    # Raw and cleaned datasets  
+├── Notebooks                        # Jupyter notebooks for EDA, and visualizations  
+├── ML Notebooks                     # Jupyter notebooks for EDA, clustering  
+├── README.md                        # Project overview and instructions  
+└── requirements.txt                 # List of dependencies (will be added)
 
 ---
 
