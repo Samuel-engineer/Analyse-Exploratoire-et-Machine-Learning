@@ -18,7 +18,8 @@ The goal is to uncover **hidden patterns, trends, and groupings** among district
 ├── Notebooks # Jupyter notebooks for EDA, and visualizations  
 ├── ML Notebooks # Jupyter notebooks for EDA, clustering  
 ├── README.md # Project overview and instructions  
-└── requirements.txt # List of dependencies (will be added)  
+└── requirements.txt # List of dependencies (will be added)
+
 ---
 
 ## 🧠 Objectives
@@ -48,7 +49,7 @@ The dataset includes:
 - Pandas, NumPy
 - Scikit-learn
 - Seaborn, Matplotlib, Plotly
-- Scipy, Yellowbrick
+- Scipy
 - UMAP, t-SNE (from sklearn or openTSNE)
 
 ---
