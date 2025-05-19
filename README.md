@@ -1,4 +1,4 @@
-# 🚌 Unsupervised Exploration of the Electric School Bus Adoption Dataset (On going)
+# 🚌 Unsupervised Exploration of the Electric School Bus Adoption Dataset (On going)  
 
 ## 📌 Overview
 
@@ -14,11 +14,11 @@ The goal is to uncover **hidden patterns, trends, and groupings** among district
 
 ## 📂 Project Structure
 
-├── electric school bus adoption/ # Raw and cleaned datasets
-├── Notebooks # Jupyter notebooks for EDA, and visualizations
-├── ML Notebooks # Jupyter notebooks for EDA, clustering
-├── README.md # Project overview and instructions
-└── requirements.txt # List of dependencies (will be added)
+├── electric school bus adoption/ # Raw and cleaned datasets  
+├── Notebooks # Jupyter notebooks for EDA, and visualizations  
+├── ML Notebooks # Jupyter notebooks for EDA, clustering  
+├── README.md # Project overview and instructions  
+└── requirements.txt # List of dependencies (will be added)  
 ---
 
 ## 🧠 Objectives
@@ -39,8 +39,6 @@ The dataset includes:
 - **Bus Details**: Number of ESBs, manufacturer, funding source.
 - **Adoption Timeline**: Phases for each bus – awarded, ordered, delivered, operating.
 - **Geographic Features**: Latitude/longitude, state, region.
-
-> 📌 Note: All data is anonymized and publicly available via WRI sources.
 
 ---
 
